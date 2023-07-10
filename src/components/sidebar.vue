@@ -18,7 +18,7 @@ export default{
             .then((element)=>{
                 const c = element.data
                 c.forEach(e => {
-                    if(e.Name === "ullas"){
+                    if(e.Name === "sumaiya"){
                         this.uname = e.Name
                         this.em = e.Email
                         this.phno = e.Phno

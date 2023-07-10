@@ -5,8 +5,8 @@ export default{
     data() {
         return {
             msg: "",
-            currentUser: "ullas",
-            withUser: "sumaiya"
+            currentUser: "sumaiya",
+            
         };
     },
     methods: {
